@@ -3,7 +3,7 @@
 1. Graylog Install  
  Ubuntu 18.04 설치 후 아래 명령어를 일반유저에서 실행하면 한번에 ES, Graylog, MongoDB깥지 설치됩니다. 
  
-curl https://raw.githubusercontent.com/GamjaPower/graylog/master/graylog_inst.sh -o graylog_inst.sh
+curl https://raw.githubusercontent.com/GamjaPower/graylog/master/graylog_inst.sh -o graylog_inst.sh <BR>
 chmod 755 graylog_inst.sh
 ./graylog_inst.sh
 
